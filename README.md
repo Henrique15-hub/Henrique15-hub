@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, Javascript, php, c++, c+ ( i will learning others languages )
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open code projects
-- 📫 How to reach me send me a e-mail on my gmail: henriquedepaula1015@gmail.com
+- 📫 How to reach me: send me a e-mail on my gmail: henriquedepaula1015@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I won a matematic olimpic medal, I always like matematic and everything like that
 - I'm loking for experience right now, I want to ingrace in job market
