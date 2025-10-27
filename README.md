@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henrique, i'm a junior python developer, I'm live in Brazil, I'm a 17 year old boy
+- 👋 Hi, I’m Henrique, i'm a junior python developer, I'm live in Brazil, I'm a 18 year old boy
 - 👀 I’m interested in python, Javascript, php, c++, c+ ( i will learning others languages )
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open code projects
