@@ -1,4 +1,4 @@
-- junior developer, living in Brazil, at 19 years old
+- Junior developer, living in Brazil, at 19 years old
 - Langueges that I worked with: Python, php, js, c#
 - Currently learning php/laravel, c#
 - Looking to collaborate on open code projects
