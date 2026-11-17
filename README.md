@@ -1,5 +1,5 @@
 - Junior developer, living in Brazil, at 19 years old
-- Langueges that I worked with: Python, php, js, c#
+- Languages that I worked with: Python, php, js, c#
 - Currently learning php/laravel, c#
 - Looking to collaborate on open code projects
 - How to reach me: send me a e-mail on my gmail: henriquedepaula1015@gmail.com
